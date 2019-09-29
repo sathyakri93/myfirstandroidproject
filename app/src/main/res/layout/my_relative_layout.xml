@@ -8,14 +8,14 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
         android:layout_marginLeft="60dp"
-        android:text="TextView" />
+        android:text="my text view" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
-        android:text="Button" />
+        android:text="Button1" />
 
     <Button
         android:id="@+id/button3"
@@ -31,5 +31,5 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:text="Button" />
+        android:text="Button2" />
 </RelativeLayout>
